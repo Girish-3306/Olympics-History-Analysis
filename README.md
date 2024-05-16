@@ -1,4 +1,4 @@
-# SQL Project on Olympics History
+# SQL Project on Olympics History.
 
 This project provides insights into the data about the Olympic history spanning 120 years from 1896 to 2016.
 
